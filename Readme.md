@@ -2,7 +2,6 @@
 
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-ultralytics-blue) 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![License](https://img.shields.io/badge/License-MIT-red)
 
 The notebook trains YOLO11 Model to detect brain tumors in MRI scans, designed to assist radiologists with preliminary screening.
 
