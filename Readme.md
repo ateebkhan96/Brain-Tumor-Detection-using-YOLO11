@@ -12,5 +12,5 @@ The notebook trains YOLO11 Model to detect brain tumors in MRI scans, designed t
 - **Efficient Pipeline**: 
   - Segmentation mask → YOLO bounding box conversion
   - Albumentations-powered data augmentation
-  - Modular training/evaluation notebooks
+  - Training notebook
  
